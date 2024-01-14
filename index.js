@@ -1,3 +1,4 @@
+//JavaScript basic tutorial
 let arr = ["23", false, 12];
 console.log(arr);
 
