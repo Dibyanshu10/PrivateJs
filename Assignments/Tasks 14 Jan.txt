@@ -1,0 +1,11 @@
+// 1. Get a input from user and print the table of that number Eg. 5 => 5*1 = 5, 5*2 = 10, 5*3 = 15, 5*4 = 20, 5*5 = 25, 5*6 = 30, 5*7 = 35, 5*8 = 40, 5*9 = 45, 5*10 = 50
+// 2. Get a input from user and print the factorial of that number Eg. 5 => 5*4*3*2*1 = 120
+// 3. Get a input from user and check whether it is prime or not Eg. 7 => Prime
+// 4. Get a input from user and check whether it is armstrong or not Eg. 153 => 1^3 + 5^3 + 3^3 = 153
+// 5. Get a input from user and check whether it is palindrome or not Eg. 121 => 121
+// 6. Get a input from user and check whether it is leap year or not Eg. 2000 => Leap Year
+// 7. Get a input from user and print year name of that number Eg. 1 => January
+// 8. Get a input from user and print the sum of digits of that number Eg. 123 => 1+2+3 = 6
+// 9. Get a input from user and print the reverse of that number Eg. 123 => 321
+// 10. Get a input from user and print the number of digits of that number Eg. 123 => 3
+// 11. Get a input from user and print the sum of (1 - number) Eg. n = 5 => 1+2+3+4+5 = 15
