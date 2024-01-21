@@ -1,0 +1,24 @@
+let ref = document.getElementById("Hi");
+let buttonRef = document.getElementById("Click");
+buttonRef.addEventListener("click", () => {
+  ref.innerText = "Learning Javascript and Node.js";
+  ref.style.background = "grey";
+  ref.style.fontSize = "16px";
+  divref.style.display = "flex";
+  divref.style.flexDirection = "column";
+  divref.style.alignItems = "center";
+  divref.style.justifyContent = "center";
+  divref.style.height = "100vh";
+  divref.style.backgroundColor = "black";
+  cardref.style.border = "2px solid";
+  cardref.style.backgroundColor = "orange";
+  cardref.style.height = "20vh";
+  cardref.style.width = "10vw";
+  cardref.style.display = "flex";
+  cardref.style.flexDirection = "column";
+  cardref.style.alignItems = "center";
+  cardref.style.justifyContent = "center";
+  buttonRef.style.color = "red";
+});
+let divref = document.getElementById("centerdiv");
+let cardref = document.getElementById("card");
